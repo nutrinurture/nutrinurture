@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+
+.bg-nutri {
+  /*background-color: #2e8642 !important;*/
+  background-color: #74a248 !important;
+}
